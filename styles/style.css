@@ -783,7 +783,7 @@ button::-moz-focus-inner {
     width: 335px;
     height: 300px;
     padding: 62px 20px 34px 20px;
-    background-image: url(/img/poster/1.png);
+    background-image: url(../img/poster/1.png);
     background-position: center;
     background-size: cover;
   }
